@@ -6,6 +6,7 @@
 #+author: Garid Zorigoo
 #+date: [2023-10-20 Fri 20:43]
 #+auto_tangle: nil
+#+html_head: <link rel="stylesheet" href="/home/garid/test.css">
 
 * What
 You can host simple static website (something like a blog) on your github.
@@ -19,8 +20,6 @@ You can host simple static website (something like a blog) on your github.
 ** Disadvantages:
 - not free (as freedom)
 - kinda "spoon feeds" you
-
-
 * How
 ** Step 1: creation of repo
 - create empty repo on github
@@ -46,4 +45,7 @@ You can host simple static website (something like a blog) on your github.
 * Example:
 https://garid3000.github.io/this_is_a_test_website/
 
+
+* Appendix:
+- css https://niklasfasching.de/posts/just-enough-css/
 
