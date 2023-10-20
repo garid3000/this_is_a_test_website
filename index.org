@@ -22,14 +22,19 @@ You can host simple static website (something like a blog) on your github.
 
 
 * How
-** step 1: creation of repo
+** Step 1: creation of repo
 - create empty repo on github
 - clone it into local machine
     
-** step 2: creation of html
+** Step 2: creation of html
 - create a =index.html= in the root directory
 - commit & push to back to github
 
-** step 3: configuring github pages
--
+** Step 3: configuring github pages
+[[file:od-imgs/20231020204314-github_pages/github_pages_settings.png]]
+
+1. Go to *Settings* inside you repo
+2. Go to *Pages* on the left panel
+3. Select *Deploy from branch*
+4. (optional) customize other domain you have
 
