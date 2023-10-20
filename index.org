@@ -31,7 +31,7 @@ You can host simple static website (something like a blog) on your github.
 - commit & push to back to github
 
 ** Step 3: configuring github pages
-[[file:od-imgs/20231020204314-github_pages/github_pages_settings.png]]
+[[file:od-imgs/20231020204314-github-pages/github_pages_settings.png]]
 
 1. Go to *Settings* inside you repo
 2. Go to *Pages* on the left panel
