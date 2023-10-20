@@ -38,3 +38,10 @@ You can host simple static website (something like a blog) on your github.
 3. Select *Deploy from branch*
 4. (optional) customize other domain you have
 
+* Things to remember:
+- !!! directory with =_= (underscore) doesn't work well.
+
+* Example:
+https://garid3000.github.io/this_is_a_test_website/
+
+
