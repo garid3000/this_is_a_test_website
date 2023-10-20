@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       da4e14d0-e48c-4876-9873-2f46af662dd8
+:END:
+#+title: Using GitHub Pages
+#+filetags: :yak-shaving:
+#+author: Garid Zorigoo
+#+date: [2023-10-20 Fri 20:43]
+#+auto_tangle: nil
+
+* What
+You can host simple static website (something like a blog) on your github.
+(or host a documentation webpages of your project).
+
+* Why
+** Advantages:
+- easy (apparently quite easy)
+- free (as beer)
+
+** Disadvantages:
+- not free (as freedom)
+- kinda "spoon feeds" you
+
+
+* How
+** step 1: creation of repo
+- create empty repo on github
+- clone it into local machine
+    
+** step 2: creation of html
+- create a =index.html= in the root directory
+- commit & push to back to github
+
+** step 3: configuring github pages
+-
+
